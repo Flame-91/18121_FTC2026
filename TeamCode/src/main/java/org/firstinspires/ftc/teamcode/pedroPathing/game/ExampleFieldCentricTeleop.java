@@ -4,7 +4,6 @@ import com.pedropathing.follower.Follower;
 import com.pedropathing.localization.Pose;
 import  com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
-import com.arcrobotics.ftclib.controller.PIDFController;
 
 import org.firstinspires.ftc.teamcode.pedroPathing.constants.FConstants;
 import org.firstinspires.ftc.teamcode.pedroPathing.constants.LConstants;
@@ -17,7 +16,7 @@ import org.firstinspires.ftc.teamcode.pedroPathing.constants.LConstants;
  */
 
 @TeleOp(name = "Example Teleop", group = "game")
-public class ExampleFieldCentricTeleop extends OpMode {
+public class ExampleFieldCentricTeleop extends OpMode{
     private Follower follower;
     private final Pose startPose = new Pose(0,0,0);
 
