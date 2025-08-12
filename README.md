@@ -1,4 +1,6 @@
-## Welcome to the Offical Pedro Pathing Quickstart!  
+# 18121 FTC 2026 Codebase – Decode Season
 
-Follow the steps on our [website](https://pedropathing.com/) to tune and setup!  
-Feel Free to reach out on the [Offical Pedro Pathing Discord Server](https://discord.gg/2GfC4qBP5s)!
+Welcome to the official codebase for FTC Team 18121 during the 2026 "Centerstage: Decode" season.  
+This repository builds on top of [PedroPathing Quickstart](https://github.com/Pedro-Pathing/Quickstart) and uses [FTCLib](https://github.com/FTCLib/FTCLib).
+
+This project represents our team's competitive software foundation.
